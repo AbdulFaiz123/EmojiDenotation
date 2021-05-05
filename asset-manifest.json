@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abdulfaiz123.github.io/csb-tgm0r/static/css/main.d078f7dc.chunk.css",
+    "main.js": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/main.94db6304.chunk.js",
+    "main.js.map": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/main.94db6304.chunk.js.map",
+    "runtime-main.js": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/runtime-main.b49e9214.js",
+    "runtime-main.js.map": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/runtime-main.b49e9214.js.map",
+    "static/js/2.aaadba2e.chunk.js": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/2.aaadba2e.chunk.js",
+    "static/js/2.aaadba2e.chunk.js.map": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/2.aaadba2e.chunk.js.map",
+    "index.html": "https://abdulfaiz123.github.io/csb-tgm0r/index.html",
+    "static/css/main.d078f7dc.chunk.css.map": "https://abdulfaiz123.github.io/csb-tgm0r/static/css/main.d078f7dc.chunk.css.map",
+    "static/js/2.aaadba2e.chunk.js.LICENSE.txt": "https://abdulfaiz123.github.io/csb-tgm0r/static/js/2.aaadba2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49e9214.js",
+    "static/js/2.aaadba2e.chunk.js",
+    "static/css/main.d078f7dc.chunk.css",
+    "static/js/main.94db6304.chunk.js"
+  ]
+}
